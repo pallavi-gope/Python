@@ -5,7 +5,3 @@ if(age >= 18):
 else:
     print("No")
 
-#Relational Operators : Relational operators are used to evaluate conditions inside the if statements.
-# == ,<=, >=, >, <, !=
-
-#Logical Operators : 
