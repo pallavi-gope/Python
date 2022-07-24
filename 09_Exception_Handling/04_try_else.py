@@ -1,0 +1,1 @@
+##try with else clause : Sometimes we want to run a code when try was successful. else block will execute when try will successful

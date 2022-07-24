@@ -20,3 +20,7 @@ d1 = {
 print(d1["l1"])
 print(d1["d2"])
 print(d1["d2"]["e2"])
+
+for i in d1["l1"]:
+    print(i)
+
